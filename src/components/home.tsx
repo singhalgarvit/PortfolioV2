@@ -21,10 +21,10 @@ function Home() {
         className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
       />
       <div className="mt-5 text-3xl md:text-4xl text-center leading-16">
-        Hello👋, I'm{" "}
+        Hello👋, I&apos;m{" "}
         <b className="text-5xl text-shadow-lg font-mono"> Garvit Singhal </b>
         <br />
-        I'm a{" "}
+        I&apos;m a{" "}
         <i>
           {"< "}Full Stack Developer{" />"}
         </i>{" "}
