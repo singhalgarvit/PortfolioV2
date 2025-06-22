@@ -8,7 +8,7 @@ function Home() {
   return (
     <div
       id="home"
-      className="w-screen h-screen justify-items-center justify-center p-3 md:p-15 bg-[radial-gradient(circle,rgba(252,70,107,0.2)_0%,rgba(63,94,151,0.2)_100%)]"
+      className="w-screen h-screen justify-items-center  p-3 md:p-15 bg-[radial-gradient(circle,rgba(252,70,107,0.2)_0%,rgba(63,94,151,0.2)_100%)]"
     >
       <Image
         src={garvit}
@@ -20,9 +20,9 @@ function Home() {
         priority={true}
         className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
       />
-      <div className="mt-5 text-3xl md:text-4xl text-center leading-16">
+      <div className="mt-5 text-2xl sm:text-4xl text-center leading-12 sm:leading-16">
         Hello👋, I&apos;m{" "}
-        <b className="text-5xl text-shadow-lg font-mono"> Garvit Singhal </b>
+        <b className="text-3xl sm:text-5xl text-shadow-lg font-mono"> Garvit Singhal </b>
         <br />
         I&apos;m a{" "}
         <i>

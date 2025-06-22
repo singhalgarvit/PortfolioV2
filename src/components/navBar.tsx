@@ -7,7 +7,7 @@ import { MdContactPage } from "react-icons/md";
 
 function NavBar() {
   return (
-    <div className="fixed bottom-0 md:bottom-5 left-1/2 -translate-x-1/2 p-4 rounded-4xl w-auto bg-black shadow-2xl/30 ">                                         
+    <div className="fixed bottom-2 md:bottom-5 left-1/2 -translate-x-1/2 p-4 rounded-4xl w-auto bg-black shadow-2xl/30 ">                                         
       <div className="flex content-between md:gap-3.5 justify-center w-fit ">
         <a href="#home"><TbHomeFilled size={25} title="Home" className="mx-2.5 text-gray-600 hover:text-white cursor-pointer duration-300" /></a>
         <a href="#about"><TbUserFilled size={25} title="About" className="mx-2.5 text-gray-600 hover:text-white cursor-pointer duration-300" /></a>
