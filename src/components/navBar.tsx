@@ -10,7 +10,7 @@ import {IconContext} from "react-icons";
 
 function NavBar() {
   return (
-    <div className="fixed top-2 md:top-5 left-1/2 -translate-x-1/2 p-4 rounded-4xl w-auto bg-black shadow-2xl/30 ">
+    <div className="fixed top-2 z-50 md:top-5 left-1/2 -translate-x-1/2 p-4 rounded-4xl w-auto bg-black shadow-2xl/30 ">
       <IconContext.Provider value={{size:"25", className: "mx-2.5 text-gray-600 hover:text-white active:text-black cursor-pointer duration-300"}}>
         <div className="flex content-between md:gap-3.5 justify-center w-fit ">
           <a href="#home">

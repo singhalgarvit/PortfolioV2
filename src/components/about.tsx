@@ -2,7 +2,7 @@ function About() {
   return (
     <div
       id="about"
-      className=" h-screen mt-9 p-3 md:p-15 justify-items-center flex flex-col justify-center items-center gap-3.5"
+      className=" h-screen mt-9 p-3 md:p-15 flex flex-col justify-center items-center gap-3.5"
     >
       <h1 className="text-3xl md:text-5xl">About Me</h1>
       <p className=" p-3 md:px-40 text-center text-lg sm:text-2xl tracking-wider leading-7 sm:leading-12">

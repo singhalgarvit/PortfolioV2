@@ -57,7 +57,7 @@ function Home() {
           <FiGithub />
         </a>
       </div>
-      <FaArrowDownLong size={50} className="opacity-20 absolute bottom-5 left-1/2 -translate-x-1/2 animate-bounce"/>
+      <FaArrowDownLong size={50} className="opacity-20 absolute  bottom-0 sm:bottom-5 left-1/2 -translate-x-1/2 animate-bounce"/>
     </div>
   );
 }
