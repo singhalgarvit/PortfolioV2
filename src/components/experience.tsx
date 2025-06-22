@@ -65,7 +65,7 @@ function Experience() {
             Frontend Developer Intern
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            PJ's Illustration
+            PJ&apos;s Illustration
           </h4>
           <p>
             <li>
