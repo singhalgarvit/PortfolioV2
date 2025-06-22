@@ -23,7 +23,7 @@ function Experience() {
           contentArrowStyle={{
             borderRight: "0.4rem solid rgba(255, 255, 255, 0.5)",
           }}
-          date="2011 - present"
+          date="July 2024 - Dec 2024"
           iconStyle={{background: "rgba(255, 255, 255, 0.15)", color: "#fff"}}
           icon={<FaNodeJs />}
         >
@@ -57,7 +57,7 @@ function Experience() {
           contentArrowStyle={{
             borderRight: "0.4rem solid rgba(255, 255, 255, 0.5)",
           }}
-          date="2011 - present"
+          date="Jan 2024 - May 2024"
           iconStyle={{background: "rgba(255, 255, 255, 0.15)", color: "#fff"}}
           icon={<FaReact  />}
         >
