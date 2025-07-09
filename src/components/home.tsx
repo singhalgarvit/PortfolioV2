@@ -35,7 +35,7 @@ function Home() {
 
       <div className="Btns flex flex-col sm:flex-row items-center justify-center gap-4 px-4">
         <a
-          href="/Garvit_Singhal_Resume.pdf"
+          href="/cv"
           className="group bg-gray-900 text-white mt-4 px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
           target="_blank"
         >
