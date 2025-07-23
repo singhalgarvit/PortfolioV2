@@ -13,7 +13,7 @@ function Experience() {
       className=" h-screen mt-9 p-3 md:p-15 flex flex-col items-center"
     >
       <h1 className="text-3xl md:text-5xl">My Experience</h1>
-      <VerticalTimeline lineColor="rgba(0,0,0,0.5)">
+      <VerticalTimeline lineColor="">
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{
