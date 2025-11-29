@@ -1,12 +1,9 @@
 function About() {
   return (
-    <div
-      id="about"
-      className=" h-screen mt-9 p-3 md:p-15 flex flex-col justify-center items-center gap-3.5"
-    >
+    <section className="w-screen h-screen flex flex-col justify-center items-center text-white">
       <h1 className="text-3xl md:text-5xl">About Me</h1>
       <p className=" p-3 md:px-40 text-center text-lg sm:text-2xl tracking-wider leading-7 sm:leading-12">
-        Hey! This is Garvit Singhal, a passionate and dedicated third‑year
+        Hey! This is Garvit Singhal, a passionate and dedicated final-year
         engineering student at SKIT, Jaipur, with a strong interest in web
         development. My journey into the world of technology began with a simple
         curiosity — understanding how websites work — which gradually led me to
@@ -15,7 +12,7 @@ function About() {
         efficient web applications. I find great joy in turning ideas into
         interactive, user-friendly digital experiences.
       </p>
-    </div>
+    </section>
   );
 }
 
