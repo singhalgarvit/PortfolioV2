@@ -40,7 +40,7 @@ function Home() {
 
         <div className="flex min-w-0 flex-1 flex-col gap-5">
           <p className="font-mono text-sm text-accent md:text-base">
-            <span className="text-text-muted">//</span> available for full time jobs &amp; freelance
+            <span className="text-text-muted">{"//"}</span> available for full time jobs &amp; freelance
           </p>
           <h1 className="font-display text-4xl font-bold leading-[1.1] tracking-tight text-text md:text-5xl lg:text-6xl">
             Garvit Singhal
